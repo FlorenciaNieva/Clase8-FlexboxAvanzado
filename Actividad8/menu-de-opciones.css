@@ -1,0 +1,125 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Ysabeau';
+}
+.conteiner {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(193, 190, 190);
+    border: 1px solid black;
+    height: 580px;
+    width: 500px;
+}
+header {
+    height: 90px;
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    display: flex;
+    border: 1px solid black;
+}
+.img {
+    background-color: white;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    margin: 5px;
+    width: 80px;
+}
+.name {
+    background-color: white;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    margin: 5px;
+    flex-grow: 1;
+}
+.icono {
+    background-color: white;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    margin: 5px;
+    width: 80px;
+}
+.menu {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid black;
+    flex-grow: 1;
+}
+.perfil {
+    background-color: white;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+}
+.contacto {
+    background-color: white;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+}
+.tarjetas {
+    background-color: white;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+}
+.redes{
+    background-color: white;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+}
+.ajustes {
+    background-color: white;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+}
+footer {
+    height: 30px;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cerrar-sesion {
+    background-color: tomato;
+    color: white;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 35px;
+}

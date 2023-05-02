@@ -1,0 +1,86 @@
+.padre {
+    display: flex;
+    flex-wrap: wrap;
+}
+.box-1{
+    background-color: aqua;
+    height: 100px;
+    flex-basis: 25%;
+}
+.box-2 {
+    background-color: rgb(170, 88, 246);
+    height: 100px;
+    flex-basis: 25%;
+}
+.box-3 {
+    background-color: tomato;
+    height: 100px;
+    flex-basis: 25%;
+}
+.box-4 {
+    background-color: teal;
+    height: 100px;
+    flex-basis: 25%;
+}
+.box-5 {
+    background-color: slateblue;
+    height: 100px;
+    flex-grow: 1;
+}
+.box-6 {
+    background-color: aquamarine;
+    height: 100px;
+    flex-basis: 25%;
+}
+.box-7 {
+    background-color: blue;
+    height: 100px;
+    flex-basis: 25%;
+}
+.box-8 {
+    background-color: violet;
+    height: 100px;
+    flex-basis: 25%;
+}
+.box-9 {
+    background-color: springgreen;
+    height: 100px;
+    flex-basis: 25%;
+}
+.box-10 {
+    background-color: palegreen;
+    height: 100px;
+    flex-basis: 25%;
+}
+.box-11 {
+    background-color: orchid;
+    height: 100px;
+    flex-grow: 1;
+}
+.box-12 {
+    background-color: brown;
+    height: 100px;
+    flex-basis: 25%;
+}
+.box-13 {
+    background-color: beige;height: 100px;
+    flex-basis: 25%;
+}
+.box-14 {
+    background-color: cornflowerblue;height: 100px;
+    flex-basis: 25%;
+}
+.box-15 {
+    background-color: darkgoldenrod;height: 100px;
+    flex-basis: 25%;
+}
+.box-16 {
+    background-color: greenyellow;
+    height: 100px;
+    flex-grow: 1;
+}
+.box-17 {
+    background-color: maroon;
+    height: 100px;
+    flex-grow: 1;
+}

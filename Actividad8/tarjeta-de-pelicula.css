@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.tarjeta {
+    display: flex;
+    height: 400px;
+    width: 700px;
+    border: 1px solid black;
+    align-items: center;
+    padding: 20px;
+}
+img {
+    width: 200px;
+}
+.info {
+    flex-grow: 1;
+    align-self: stretch;
+    margin: 10px;
+}
+.descripcion {
+    align-self: stretch;
+}
